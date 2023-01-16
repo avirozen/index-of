@@ -1,5 +1,5 @@
 {
-    "name": "index-of",
+    "name": "index-of - array",
     "description": "",
     "dependencies": {
         "core": "*",
